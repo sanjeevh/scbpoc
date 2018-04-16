@@ -18,9 +18,9 @@ eureka:
 ribbon:  
   eureka:
     enabled: true
-#  ConnectTimeout: 3000 
-#  ReadTimeout : 60000
-#  SocketTimeout: 60000 
+  ConnectTimeout: 3000 
+  ReadTimeout : 60000
+  SocketTimeout: 60000 
   
 
 
